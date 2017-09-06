@@ -22,6 +22,7 @@ install:
   - go get -u -v github.com/spf13/hugo
 
 script:
+  - cd src
   - hugo
 
 deploy:
