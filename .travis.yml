@@ -10,7 +10,7 @@ install:
 
 # Build the website
 script:
-  - cd src
+  - cd ./src/
   - ../binaries/hugo --theme=academic
 
 # Deploy to GitHub pages
