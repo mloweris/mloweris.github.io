@@ -1,9 +1,14 @@
 # Install the apt prerequisites
-addons:
-  apt:
-    packages:
+before_install:
+  - sudo apt-get -qq update
+  - sudo apt-get install -y hugo
+
+
+#addons:
+ # apt:
+  #  packages:
       # - python-pygments
-      - hugo
+   #   - hugo
 # Clean and don't fail
 install:
   - rm -rf public || exit 0
