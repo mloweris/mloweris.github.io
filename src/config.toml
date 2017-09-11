@@ -1,6 +1,6 @@
-baseurl = "https://mloweris.github.io/"  # End your URL with a `/` trailing slash.
+baseurl = "https://example.com/"  # End your URL with a `/` trailing slash.
 title = "Academic"
-copyright = "&copy; 2017 Mark Lowerison"
+copyright = "&copy; 2016 Your Name"
 theme = "academic"
 enableEmoji = true
 footnotereturnlinkcontents = "<sup>^</sup>"
@@ -19,17 +19,17 @@ defaultContentLanguageInSubdir = false
   hrefTargetBlank = true
 
 [params]
-  name = "Mark W. Lowerison"
-  role = "Director, Clinical Research Unit"
-  organization = "University of Calgary"
-  organization_url = "https://cru.ucalgary.ca"
-  gravatar = true  # Get your avatar from Gravatar.com? (true/false)
-  avatar = ""  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
-  email = "mwloweri@ucalgary.ca"
-  address = "Health Science Centre B153K, 3330 Hospital Drive NW, Calgary AB, CAN"
-  office_hours = "T to T"
-  phone = "403.210.3845"
-  skype = ""
+  name = "Lena Smith"
+  role = "Professor of Artificial Intelligence"
+  organization = "Stanford University"
+  organization_url = ""
+  gravatar = false  # Get your avatar from Gravatar.com? (true/false)
+  avatar = "portrait.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
+  email = "test@example.org"
+  address = "Building 1 Room 1, Stanford University, California, 90210, USA"
+  office_hours = "Monday 10:00 to 13:00 or email for appointment"
+  phone = "888 888 88 88"
+  skype = "echo123"
   telegram = ""
 
   # Enable Keybase in Contact section by entering your keybase.io username.
@@ -37,11 +37,11 @@ defaultContentLanguageInSubdir = false
 
   # Date format (refer to Go's date format: http://flippinggodateformat.com )
   #   Examples: "Mon, Jan 2, 2006" or "2006-01-02"
-  date_format = "2006-01-02"
+  date_format = "Jan 2, 2006"
 
   # Enable global LaTeX math rendering?
   #   If false, you can enable it locally on a per page basis.
-  math = true 
+  math = false
 
   # Highlight.js options
   #   highlight
@@ -77,9 +77,9 @@ defaultContentLanguageInSubdir = false
   #   For more info on the highlighting options, see:
   #   https://gcushen.github.io/hugo-academic-demo/post/writing-markdown-latex/#highlighting-options
   highlight = true
-  highlight_languages = ["python", "R"]
-  highlight_style = "github"
-  highlight_version = "9.9.0"
+  highlight_languages = []
+  # highlight_style = "github"
+  # highlight_version = "9.9.0"
 
   # Enable native social sharing buttons?
   sharing = true
@@ -126,22 +126,22 @@ defaultContentLanguageInSubdir = false
   [[params.social]]
     icon = "envelope"
     icon_pack = "fa"
-    link = "mailto:mwloweri@ucalgary.ca"
+    link = "mailto:test@example.org"
 
   [[params.social]]
     icon = "twitter"
     icon_pack = "fa"
-    link = "//twitter.com/mloweris"
+    link = "//twitter.com/GeorgeCushen"
 
   [[params.social]]
     icon = "google-scholar"
     icon_pack = "ai"
-    link ="https://scholar.google.ca/citations?hl=en&user=fZO8H2cAAAAJ&view_op=list_works"
+    link = "https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ"
 
   [[params.social]]
     icon = "github"
     icon_pack = "fa"
-    link = "//github.com/mloweris"
+    link = "//github.com/gcushen"
 
 
 # Navigation Links
