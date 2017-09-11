@@ -1,33 +1,23 @@
-language: go
+# Install the apt prerequisites
+addons:
+  apt:
+    packages:
+      - python-pygments
 
-go:
-  - 1.7
-
-sudo: false
-
-git:
-  depth: 10
-
-branches:
-  only:
-    - master
-
-env:
-  global:
-    - SOURCE_DIR="public"
-    - BUILD_BRANCH="source"
-    - DEPLOY_BRANCH="master"
-
+# Clean and don't fail
 install:
-  - go get -u -v github.com/spf13/hugo
+  - rm -rf public || exit 0
 
+# Build the website
 script:
   - cd src
-  - hugo
+  - ../binaries/hugo 
 
+# Deploy to GitHub pages
 deploy:
-  - provider: pages
-    edge: true
-    github_token: ${GITHUB_TOKEN}
-    local_dir: public
-    skip_cleanup: true
+  provider: pages
+  skip_cleanup: true
+  local_dir: public
+  github_token: $GITHUB_TOKEN # Set in travis-ci.org dashboard
+  on:
+    branch: master
