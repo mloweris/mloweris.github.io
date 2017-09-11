@@ -1,23 +1,19 @@
-# Install the apt prerequisites
-
 addons:
   apt:
     packages:
-       - python-pygments
-# Clean and don't fail
+    - python-pygments
 install:
-  - rm -rf public || exit 0
-
-# Build the website
+- rm -rf public || exit 0
 script:
-  - cd src
-  - ../binaries/hugo 
-
-# Deploy to GitHub pages
+- cd src
+- ../binaries/hugo
 deploy:
   provider: pages
   skip_cleanup: true
   local_dir: public
-  github_token: $GITHUB_TOKEN # Set in travis-ci.org dashboard
+  github_token: $GITHUB_TOKEN
   on:
     branch: master
+env:
+  global:
+    secure: hwt07TcZMmFcLHF9YNzcuxnV+tCgb9SkQMKPMAl0cAxZvo2X0QG25v6gEgSILe3TrweaivijyS8T5Lob6ZqZng74M9RkSQ66E1LnV3hVD+e4Uku9/zs9W+8FEG4yTF2mMRH3qb9GePMXVRY7ZTdXFhw3SCulTsTY2Dk/oKaklIXCcA6979GX7pWml2AsCHWl4x+dpQ9NduJsT2RWY/Yx0L8bAMyTqV/uCTAnGNwGVGzX2Pe6PS0QTNWwOA8jWp5KpTX8OWW9tRdMG3rJbcHHNG41h+AibBog4qxZttvJ3BXPwutO3oJEhXt3iJF+QbpuIEyPx/5d1qjqBngvUbm3et0QreYBd/NO1+4GfLcwqVpmTwCwRiW0AoWskf6kvWBqRRt6gF4epgx7zbxNSnCCaTHbvdCAtKuWNxFvtEmoydwaqk+GKfl0iaqq4P3yyX0E6kOMqmWz++z+P6fdYxnS8hM892W0fKUmYMXbLBUDcRjy7e9YKg1NTQuy86LfbztEA/yFn09rmMJWGc4Hlo0AGDdTMzXnakHB1Du5doJXHogxP8wdeYc93ggqsWUlwlKMuPy4SOFxJ0FSUpNf45CYHnWKamZxkOWlmTf1x0+Xnb/CAi5ZzmI3zyr4dtVuby0oUnKjQhiHtIJG4VcEKVn2I3EjxZ36pvIesTHdqVDOm7o=
