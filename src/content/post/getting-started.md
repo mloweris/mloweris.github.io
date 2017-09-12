@@ -28,7 +28,6 @@ Key features:
 - Simple and refreshing one page design
 - Easy to customize
 
-{{% toc %}}
 
 ## Installation
 
