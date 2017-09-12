@@ -146,13 +146,9 @@ If the `highlight_style` option *is* set, then `/css/highlight.min.css` is ignor
 
 See the [highlight.js demo page](https://highlightjs.org/static/demo/) for examples of available styles.
 
-{{% alert note %}}
 Not all styles listed on the [highlight.js demo page](https://highlightjs.org/static/demo/) are available from the [cdnjs server](https://cdnjs.com/libraries/highlight.js/). If you want to use a style that is not served by cdnjs, just leave `highlight_style` unset, and place the corresponding css file in `/static/css/highlight.min.css`.
-{{% /alert %}}
 
-{{% alert note %}}
 If you don't want to change the default style that ships with Academic but you do want the style file served from the [cdnjs server](https://cdnjs.com/libraries/highlight.js/), set `highlight_style = "github"` in `config.toml`.
-{{% /alert %}}
 
 The `highlight_style` option is only recognized when set in `config.toml`. Setting `highlight_style` in your page's preamble has no effect.
 
@@ -219,25 +215,15 @@ Result:
 
 Alerts are a useful feature that add side content such as tips, notes, or warnings to your articles. They are especially handy when writing educational tutorial-style articles. Use the corresponding shortcodes to enable alerts inside your content:
 
-    {{%/* alert note */%}}
     Here's a tip or note...
-    {{%/* /alert */%}}
 
 This will display the following *note* block:
 
-{{% alert note %}}
 Here's a tip or note...
-{{% /alert %}}
 
-    {{%/* alert warning */%}}
     Here's some important information...
-    {{%/* /alert */%}}
 
 This will display the following *warning* block:
-
-{{% alert warning %}}
-Here's some important information...
-{{% /alert %}}
 
 ## Table of Contents
 
