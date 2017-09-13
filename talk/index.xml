@@ -2,6 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Recent &amp; Upcoming Talks on Academic</title>
+<<<<<<< HEAD
     <link>https://mloweris.github.io/talk/</link>
     <description>Recent content in Recent &amp; Upcoming Talks on Academic</description>
     <generator>Hugo -- gohugo.io</generator>
@@ -10,14 +11,31 @@
     <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://mloweris.github.io/talk/index.xml" rel="self" type="application/rss+xml" />
+=======
+    <link>https://example.com/talk/</link>
+    <description>Recent content in Recent &amp; Upcoming Talks on Academic</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2016 Your Name</copyright>
+    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://example.com/talk/index.xml" rel="self" type="application/rss+xml" />
+>>>>>>> 730fe111434d914821d450b1c23a478879ae2973
     
     
     <item>
       <title>Example Talk</title>
+<<<<<<< HEAD
       <link>https://mloweris.github.io/talk/example-talk/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       
       <guid>https://mloweris.github.io/talk/example-talk/</guid>
+=======
+      <link>https://example.com/talk/example-talk/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/talk/example-talk/</guid>
+>>>>>>> 730fe111434d914821d450b1c23a478879ae2973
       <description>Embed your slides or video here using shortcodes. Further details can easily be added using Markdown and $\rm \LaTeX$ math code.</description>
     </item>
     

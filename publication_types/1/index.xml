@@ -2,6 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>1 on Academic</title>
+<<<<<<< HEAD
     <link>https://mloweris.github.io/publication_types/1/</link>
     <description>Recent content in 1 on Academic</description>
     <generator>Hugo -- gohugo.io</generator>
@@ -10,14 +11,31 @@
     <lastBuildDate>Mon, 01 Jul 2013 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://mloweris.github.io/publication_types/1/index.xml" rel="self" type="application/rss+xml" />
+=======
+    <link>https://example.com/publication_types/1/</link>
+    <description>Recent content in 1 on Academic</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2016 Your Name</copyright>
+    <lastBuildDate>Mon, 01 Jul 2013 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://example.com/publication_types/1/index.xml" rel="self" type="application/rss+xml" />
+>>>>>>> 730fe111434d914821d450b1c23a478879ae2973
     
     
     <item>
       <title>Mobile visual clothing search</title>
+<<<<<<< HEAD
       <link>https://mloweris.github.io/publication/clothing-search/</link>
       <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
       
       <guid>https://mloweris.github.io/publication/clothing-search/</guid>
+=======
+      <link>https://example.com/publication/clothing-search/</link>
+      <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/publication/clothing-search/</guid>
+>>>>>>> 730fe111434d914821d450b1c23a478879ae2973
       <description>More detail can easily be written here using Markdown and $\rm \LaTeX$ math code.</description>
     </item>
     

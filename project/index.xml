@@ -2,6 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Projects on Academic</title>
+<<<<<<< HEAD
     <link>https://mloweris.github.io/project/</link>
     <description>Recent content in Projects on Academic</description>
     <generator>Hugo -- gohugo.io</generator>
@@ -10,23 +11,47 @@
     <lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://mloweris.github.io/project/index.xml" rel="self" type="application/rss+xml" />
+=======
+    <link>https://example.com/project/</link>
+    <description>Recent content in Projects on Academic</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2016 Your Name</copyright>
+    <lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://example.com/project/index.xml" rel="self" type="application/rss+xml" />
+>>>>>>> 730fe111434d914821d450b1c23a478879ae2973
     
     
     <item>
       <title>Deep Learning</title>
+<<<<<<< HEAD
       <link>https://mloweris.github.io/project/deep-learning/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       
       <guid>https://mloweris.github.io/project/deep-learning/</guid>
+=======
+      <link>https://example.com/project/deep-learning/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/project/deep-learning/</guid>
+>>>>>>> 730fe111434d914821d450b1c23a478879ae2973
       <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus.</description>
     </item>
     
     <item>
       <title>External Project</title>
+<<<<<<< HEAD
       <link>https://mloweris.github.io/project/example-external-project/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       
       <guid>https://mloweris.github.io/project/example-external-project/</guid>
+=======
+      <link>https://example.com/project/example-external-project/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/project/example-external-project/</guid>
+>>>>>>> 730fe111434d914821d450b1c23a478879ae2973
       <description></description>
     </item>
     
