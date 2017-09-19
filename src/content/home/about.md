@@ -1,7 +1,7 @@
 +++
 # About/Biography widget.
 
-date = "2016-04-20T00:00:00"
+date = "2017-09-18T00:00:00"
 draft = false
 
 widget = "about"
@@ -12,31 +12,32 @@ weight = 1
 # List your academic interests.
 [interests]
   interests = [
-    "Artificial Intelligence",
-    "Computational Linguistics",
-    "Information Retrieval"
+    "Biostatistics",
+    "Simulation",
+    "Research Design",
+    "Research Software"
   ]
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
-  course = "PhD in Artificial Intelligence"
-  institution = "Stanford University"
-  year = 2012
+  course = "PhD Student in Biostatistics"
+  institution = "University of Calgary"
+  
 
 [[education.courses]]
-  course = "MEng in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2009
-
-[[education.courses]]
-  course = "BSc in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
+  course = "Master of Science in Quantitative Genetics"
+  institution = "University of Guelph"
   year = 2008
+
+[[education.courses]]
+  course = "BSc in Animal Science"
+  institution = "Dalhousie University"
+  year = 2001
  
 +++
 
 # Biography
 
-Lena Smith is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Mark Lowerison is the Director of the Clinical Research Unit in the Cumming School of Medicine at the University of Calgary.  Marks research interests include application of high performance computation and statistical simulation to clinical research problems.  
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+Mark leads the Clinical Research unit which operates as a service support centre providing technical and methodological support to the Cumming School of Medicine. 
