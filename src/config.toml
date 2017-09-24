@@ -33,7 +33,7 @@ defaultContentLanguageInSubdir = false
   telegram = ""
 
   # Enable Keybase in Contact section by entering your keybase.io username.
-  keybase = ""
+  keybase = "mwloweri"
 
   # Date format (refer to Go's date format: http://flippinggodateformat.com )
   #   Examples: "Mon, Jan 2, 2006" or "2006-01-02"
@@ -155,13 +155,13 @@ defaultContentLanguageInSubdir = false
   weight = 1
 
 [[menu.main]]
-  name = "Publications"
-  url = "#publications_selected"
+  name = "Posts"
+  url = "#posts"
   weight = 2
 
 [[menu.main]]
-  name = "Posts"
-  url = "#posts"
+  name = "Publications"
+  url = "#publications_selected"
   weight = 3
 
 [[menu.main]]

@@ -25,7 +25,7 @@ weight = 1
   
 
 [[education.courses]]
-  course = "Master of Science in Quantitative Genetics"
+  course = "MSc in Quantitative Genetics"
   institution = "University of Guelph"
   year = 2008
 
@@ -38,6 +38,8 @@ weight = 1
 
 # Biography
 
-Mark Lowerison is the Director of the Clinical Research Unit in the Cumming School of Medicine at the University of Calgary.  Marks research interests include application of high performance computation and statistical simulation to clinical research problems.  
+Mark Lowerison is the a staff member and student in the Cumming School of Medicine at the University of Calgary.  
 
-Mark leads the Clinical Research unit which operates as a service support centre providing technical and methodological support to the Cumming School of Medicine. 
+As staff Mark is the Director of the Cumming School of Medicine [Clinical Research Unit] (//cru.ucalgary.ca).  
+
+As a biostatistics PhD Student, Marks research interests include application of high performance computation and statistical simulation to clinical research problems.  
