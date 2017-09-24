@@ -1,20 +1,21 @@
-#Install Apt Stuff
+# Install Apt Stuff
 language: python
+
 addons:
   apt:
     packages:
     - python-pygments
 
-#clean don't fail.
+# clean don't fail.
 install:
 - rm -rf public || exit 0
 
-#Make site.
+# Make site.
 script:
 - cd src
 - ../binaries/hugo --theme=academic
 
-#Deploy to GHP. 
+# Deploy to GHP. 
 deploy:
   provider: pages
   skip_cleanup: true
