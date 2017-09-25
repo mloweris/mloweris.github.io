@@ -1,19 +1,20 @@
-# Install Apt Stuff
+# Declare Python 
 language: python
 
+# Install Apt Additions
 addons:
   apt:
     packages:
-    - python-pygments
-
-# clean don't fail.
+      - python-pygments
+ 
+# Clean and don't fail
 install:
-- rm -rf public || exit 0
+  - rm -rf public || exit 0
 
 # Make site.
 script:
-- cd src
-- ../binaries/hugo --theme=academic
+  - cd src
+  - ../binaries/hugo --theme=academic
 
 # Deploy to GHP. 
 deploy:
@@ -25,5 +26,5 @@ deploy:
   on:
     branch: master
 
- notifications:
+notifications:
     slack: cru:JoFMWpD9oRlLkXltoq49o1HI
