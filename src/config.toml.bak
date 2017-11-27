@@ -1,6 +1,6 @@
-baseurl = "https://mloweris.github.io/"  # End your URL with a `/` trailing slash
+baseurl = "/"  # End your URL with a `/` trailing slash, e.g. `https://example.com/`.
 title = "Academic"
-copyright = "&copy; 2017 Mark Lowerison"
+copyright = "&copy; 2017 Your Name"
 theme = "academic"
 enableEmoji = true
 footnotereturnlinkcontents = "<sup>^</sup>"
@@ -32,31 +32,31 @@ defaultContentLanguageInSubdir = false
 [params]
   # Color theme.
   #   Choose from `default`, `ocean`, `forest`, `coffee`, or `dark`.
-  color_theme = "dark"
+  color_theme = "default"
 
   # Font style.
   #   Choose from `default`, `classic`, or `playfair`.
   font = "default"
 
   # Your details.
-  name = "Mark Lowerison"
-  role = "Scientific Director"
+  name = "Lena Smith"
+  role = "Professor of Artificial Intelligence"
 
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-  organizations = [ { name = "University of Calgary", url = "https://ucalgary.ca" }, { name = "Cumming School of Medicine", url = "https://cumming.ucalgary.ca" } ]
+  organizations = [ { name = "Stanford University", url = "" } ]
 
-  gravatar = true  # Get your avatar from Gravatar.com? (true/false)
-  avatar = ""  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
-  email = "mwloweri@ucalgary.ca"
-  address = "Room B153, Health Science Centre, 3330 Hospital Drive NW, Calgary, Alberta"
-  office_hours = "Email for appointment"
-  phone = "+1.403.210.3845"
-  #skype = "echo123"
-  #telegram = ""
+  gravatar = false  # Get your avatar from Gravatar.com? (true/false)
+  avatar = "portrait.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
+  email = "test@example.org"
+  address = "Building 1 Room 1, Stanford University, California, 90210, USA"
+  office_hours = "Monday 10:00 to 13:00 or email for appointment"
+  phone = "888 888 88 88"
+  skype = "echo123"
+  telegram = ""
 
   # Enable Keybase in Contact widget by entering your keybase.io username.
-  keybase = "mwloweri"
+  keybase = ""
 
   # Discussion link (e.g. link to a forum, mailing list, or chat).
   #   Uncomment line below to use.
@@ -81,10 +81,10 @@ defaultContentLanguageInSubdir = false
   #   1: Google Maps
   #   2: OpenStreetMap (Mapnik)
   #   3: OpenStreetMap (Mapbox)
-  map = 1
-  map_api_key = "AIzaSyAxmkJdTuo4OnVMSp2vm6NQN1SuTZcqOxs"
-  latitude = "51.065736"
-  longitude = "-114.133293"
+  map = 0
+  map_api_key = ""
+  latitude = "37.4275"
+  longitude = "-122.1697"
   zoom = 15
 
   # Date and time format (refer to Go's date format: http://fuckinggodateformat.com )
