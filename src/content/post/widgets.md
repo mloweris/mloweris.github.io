@@ -4,6 +4,7 @@ draft = false
 tags = ["academic", "hugo"]
 title = "Customizing the homepage with widgets"
 math = false
+expiryDate = 2016-04-15
 summary = """
 Enable/disable and configure widgets to customize your homepage.
 """

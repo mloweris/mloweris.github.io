@@ -3,6 +3,7 @@ date = 2016-04-18
 draft = false
 tags = ["academic", "hugo"]
 title = "Managing content"
+expiryDate = 2016-04-15
 math = false
 +++
 
