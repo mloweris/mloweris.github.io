@@ -2,9 +2,11 @@
 date = 2016-04-10
 # lastmod = 2017-09-03
 draft = false
+expiryDate = 2016-04-15
 tags = ["academic", "hugo"]
 title = "Frequently Asked Questions (FAQ)"
 summary = """Troubleshoot common issues."""
+active = false
 +++
 
 Common questions and answers will be listed here.
