@@ -10,31 +10,33 @@ weight = 5
 # List your academic interests.
 [interests]
   interests = [
-    "Artificial Intelligence",
-    "Computational Linguistics",
-    "Information Retrieval"
+    "Biostatistics",
+    "Computational Statistics",
+    "Simulation",
+    "Clinical Research"
   ]
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
-  course = "PhD in Artificial Intelligence"
-  institution = "Stanford University"
-  year = 2012
-
-[[education.courses]]
-  course = "MEng in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2009
-
-[[education.courses]]
-  course = "BSc in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
+  course = "MSc in Quantatative Genetics"
+  institution = "University of Guelph"
   year = 2008
+
+[[education.courses]]
+  course = "BSc in Animal Science"
+  institution = "Dalhousie University"
+  year = 2001
+
+#[[education.courses]]
+#  course = "BSc in Artificial Intelligence"
+#  institution = "Massachusetts Institute of Technology"
+#  year = 2008
  
 +++
 
 # Biography
 
-Lena Smith is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Mark Lowerison is the Scientific Director of the Cumming School of Medicine Clinical Research Unit at the University of Calgary.  In this role Mark leads the technical and methodological service support teams offering research support services to CSM researchers and their collaborators. 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+In addition to Clinical Resarch Unit responsibilities, Mark is a PhD Student in the Department of Community Health Sciences under the supervision of Dr. Herman Barkema and Dr. Rob Deardon.  In his PhD work, Mark is focusing his training on applications of machine learning and predictive statistics to clinical decision making.
+
