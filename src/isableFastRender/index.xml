@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Academic on Academic</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content in Academic on Academic</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2017 Mark Lowerison</copyright>
+    <lastBuildDate>Sun, 15 Oct 2017 00:00:00 -0600</lastBuildDate>
+    <atom:link href="/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Example Talk</title>
+      <link>http://localhost:1313/talk/example-talk/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 -0700</pubDate>
+      
+      <guid>http://localhost:1313/talk/example-talk/</guid>
+      <description>&lt;p&gt;Embed your slides or video here using &lt;a href=&#34;https://sourcethemes.com/academic/post/writing-markdown-latex/&#34; target=&#34;_blank&#34;&gt;shortcodes&lt;/a&gt;. Further details can easily be added using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>A Randomized Trial Comparing High Definition Colonoscopy Alone With High Definition Dye Spraying and Electronic Virtual Chromoendoscopy for Detection of Colonic Neoplastic Lesions During IBD Surveillance Colonoscopy</title>
+      <link>http://localhost:1313/publication/iacucci2017randomized/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/publication/iacucci2017randomized/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Association of Depression and Treated Depression With Epilepsy and Seizure Outcomes: A Multicohort Analysis</title>
+      <link>http://localhost:1313/publication/josephson2017association/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/publication/josephson2017association/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Depression As a Risk Factor for the Development of Rheumatoid Arthritis: A Population-Based Cohort Study</title>
+      <link>http://localhost:1313/publication/vallerand2017depression/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/publication/vallerand2017depression/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Depression Is Associated with an Increased Risk of Psoriatic Arthritis among Patients with Psoriasis: A Population-Based Study</title>
+      <link>http://localhost:1313/publication/lewinson2017depression/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/publication/lewinson2017depression/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Development and reliability of the new endoscopic virtual chromoendoscopy score: the PICaSSO (Paddington International Virtual ChromoendoScopy ScOre) in ulcerative colitis</title>
+      <link>http://localhost:1313/publication/iacucci2017development/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/publication/iacucci2017development/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Early Trajectory of Stroke Severity Predicts Long-Term Functional Outcomes in Ischemic Stroke Subjects</title>
+      <link>http://localhost:1313/publication/sajobi2017early/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/publication/sajobi2017early/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Minimal sufficient balance randomization for sequential randomized controlled trial designs: results from the ESCAPE trial</title>
+      <link>http://localhost:1313/publication/sajobi2017minimal/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/publication/sajobi2017minimal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mo2021 Predicting Polyp Histology-Development and Validation of an International Simple Endoscopic Classification of Small Colorectal Polyps Using the Novel I-Scan Optical Enhancement Colonoscope</title>
+      <link>http://localhost:1313/publication/iacucci2017mo2021/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/publication/iacucci2017mo2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>P212 Location and Kudo pit pattern reflect neoplastic histology of lesions detected at surveillance colonoscopy in inflammatory bowel disease</title>
+      <link>http://localhost:1313/publication/iacucci2017p212/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/publication/iacucci2017p212/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>P275 Development and reliability of the new endoscopic virtual chromoendoscopy score: the Picasso score (the Paddington International Virtual Chromoendoscopy Score) in ulcerative colitis.</title>
+      <link>http://localhost:1313/publication/iacucci2017p275/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/publication/iacucci2017p275/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Deep Learning</title>
+      <link>http://localhost:1313/project/deep-learning/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/project/deep-learning/</guid>
+      <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
+
+&lt;p&gt;Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.&lt;/p&gt;
+
+&lt;p&gt;Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.&lt;/p&gt;
+
+&lt;p&gt;Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.&lt;/p&gt;
+
+&lt;p&gt;Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>External Project</title>
+      <link>http://localhost:1313/project/example-external-project/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/project/example-external-project/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Abstract 201</title>
+      <link>http://localhost:1313/publication/menon2016abstract/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/publication/menon2016abstract/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Analysis of Workflow And Determinants of Delays in the Escape Randomized Controlled Trial</title>
+      <link>http://localhost:1313/publication/menon2016analysis/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/publication/menon2016analysis/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

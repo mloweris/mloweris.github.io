@@ -1,0 +1,549 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+    
+    
+    <url>
+    
+      <loc>http://localhost:1313/talk/example-talk/</loc>
+      <lastmod>2017-01-01T00:00:00-07:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>http://localhost:1313/post/</loc>
+      <lastmod>2017-01-01T00:00:00-07:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>http://localhost:1313/publication/iacucci2017randomized/</loc>
+      <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>http://localhost:1313/publication/josephson2017association/</loc>
+      <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>http://localhost:1313/tags/academic/</loc>
+      <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>http://localhost:1313/publication/vallerand2017depression/</loc>
+      <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>http://localhost:1313/publication/lewinson2017depression/</loc>
+      <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>http://localhost:1313/publication/iacucci2017development/</loc>
+      <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>http://localhost:1313/publication/sajobi2017early/</loc>
+      <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>http://localhost:1313/publication/sajobi2017minimal/</loc>
+      <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>http://localhost:1313/publication/iacucci2017mo2021/</loc>
+      <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>http://localhost:1313/publication/iacucci2017p212/</loc>
+      <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>http://localhost:1313/publication/iacucci2017p275/</loc>
+      <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>http://localhost:1313/publication/</loc>
+      <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>http://localhost:1313/talk/</loc>
+      <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>http://localhost:1313/project/deep-learning/</loc>
+      <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>http://localhost:1313/project/example-external-project/</loc>
+      <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>http://localhost:1313/publication/menon2016abstract/</loc>
+      <lastmod>2016-01-01T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>http://localhost:1313/publication/menon2016analysis/</loc>
+      <lastmod>2016-01-01T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>http://localhost:1313/publication/peng2016methods/</loc>
+      <lastmod>2016-01-01T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>http://localhost:1313/publication/li2016registry/</loc>
+      <lastmod>2016-01-01T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>http://localhost:1313/publication/frolkis2016association/</loc>
+      <lastmod>2016-01-01T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>http://localhost:1313/publication/sajobi2015correlates/</loc>
+      <lastmod>2015-01-01T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>http://localhost:1313/publication/sajobi2015determinants/</loc>
+      <lastmod>2015-01-01T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>http://localhost:1313/publication/sajobi2015identifying/</loc>
+      <lastmod>2015-01-01T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>http://localhost:1313/publication/goyal2015randomized/</loc>
+      <lastmod>2015-01-01T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>http://localhost:1313/publication/frolkis2015su1309/</loc>
+      <lastmod>2015-01-01T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>http://localhost:1313/publication/steele2014technical/</loc>
+      <lastmod>2014-01-01T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>http://localhost:1313/publication/lowerison2013admission/</loc>
+      <lastmod>2013-01-01T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>http://localhost:1313/publication/bell2013bone/</loc>
+      <lastmod>2013-01-01T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>http://localhost:1313/publication/mah2013evaluation/</loc>
+      <lastmod>2013-01-01T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>http://localhost:1313/publication/smith2013neurological/</loc>
+      <lastmod>2013-01-01T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>http://localhost:1313/publication/marriott2013neurological/</loc>
+      <lastmod>2013-01-01T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>http://localhost:1313/publication/johnston2013registry/</loc>
+      <lastmod>2013-01-01T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>http://localhost:1313/publication/fiest2013neurological/</loc>
+      <lastmod>2013-01-01T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>http://localhost:1313/publication/dykeman2012addressing/</loc>
+      <lastmod>2012-01-01T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>http://localhost:1313/publication/dykeman2012prediction/</loc>
+      <lastmod>2012-01-01T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>http://localhost:1313/publication/knight2012prevalence/</loc>
+      <lastmod>2012-01-01T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>http://localhost:1313/publication/hurtig2011135/</loc>
+      <lastmod>2011-01-01T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>http://localhost:1313/publication/hurtig2010100/</loc>
+      <lastmod>2010-01-01T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>http://localhost:1313/publication/hurtig2010299/</loc>
+      <lastmod>2010-01-01T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>http://localhost:1313/publication/srbely2010capsaicin/</loc>
+      <lastmod>2010-01-01T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>http://localhost:1313/publication/neundorf2010determination/</loc>
+      <lastmod>2010-01-01T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>http://localhost:1313/publication/srbely2010dry/</loc>
+      <lastmod>2010-01-01T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>http://localhost:1313/publication/neundorf2010month/</loc>
+      <lastmod>2010-01-01T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>http://localhost:1313/publication/lowerison2009correlated/</loc>
+      <lastmod>2009-01-01T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>http://localhost:1313/publication/lowerison2009genetic/</loc>
+      <lastmod>2009-01-01T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>http://localhost:1313/publication/neundorf2009macroscopic/</loc>
+      <lastmod>2009-01-01T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>http://localhost:1313/publication/srbely2008stimulation/</loc>
+      <lastmod>2008-01-01T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>http://localhost:1313/publication/cruz2007epidemiologic/</loc>
+      <lastmod>2007-01-01T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>http://localhost:1313/publication/lowerison2006comparing/</loc>
+      <lastmod>2006-01-01T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>http://localhost:1313/publication/changoor2006mapping/</loc>
+      <lastmod>2006-01-01T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>http://localhost:1313/publication/lowerison2006relationship/</loc>
+      <lastmod>2006-01-01T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>http://localhost:1313/publication/crews2004genetic/</loc>
+      <lastmod>2004-01-01T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>http://localhost:1313/</loc>
+      <lastmod>2017-10-15T00:00:00-06:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>http://localhost:1313/categories/</loc>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>http://localhost:1313/tags/deep-learning/</loc>
+      <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>http://localhost:1313/tags/demo/</loc>
+      <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>http://localhost:1313/project/</loc>
+      <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>http://localhost:1313/tags/</loc>
+      <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+</urlset>
